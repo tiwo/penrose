@@ -11,6 +11,8 @@ with open('LICENSE.txt') as license_txt:
 classifiers=[
     'Programming Language :: Python',
     'Development Status :: 4 - Beta',
+    'License :: OSI Approved :: MIT License',
+    'Topic :: Scientific/Engineering :: Mathematics',
     ]
 
 def setup():
