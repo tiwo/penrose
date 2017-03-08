@@ -5,9 +5,6 @@ import setuptools
 with open('README.rst') as readme_rst:
     readme = readme_rst.read()
 
-with open('LICENSE.txt') as license_txt:
-    license = license_txt.read()
-
 classifiers=[
     'Programming Language :: Python',
     'Development Status :: 2 - Pre-Alpha',
@@ -24,7 +21,6 @@ def setup():
         author='Tiwo',
         author_email='tiwocode@gmail.com',
         url='https://github.com/tiwo/penrose',
-        license=license,
         packages=['penrose'],
         classifiers=classifiers,
 	test_suite = 'nose.collector',
