@@ -10,6 +10,6 @@ Jeff Preshing has a `nice short page on the triangle subdivisions
 
 
 For future reference, here's how I figured out the whole pentagrid thing: Laura
-Effinger-Dean's `bachelor's thesis`_ "The Empire Problem in Penrose Tilings",
+Effinger-Dean's `bachelor's thesis`__ "The Empire Problem in Penrose Tilings",
 
-.. _: http://cs.williams.edu/~bailey/06le.pdf
+__ http://cs.williams.edu/~bailey/06le.pdf
