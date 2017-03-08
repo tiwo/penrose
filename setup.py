@@ -25,6 +25,7 @@ def setup():
         license=license,
         packages=['penrose'],
         classifiers=classifiers,
+	test_suite = 'nose.collector',
         )
 
 if __name__ == '__main__':
